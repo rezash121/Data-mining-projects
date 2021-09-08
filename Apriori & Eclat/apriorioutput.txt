@@ -1,0 +1,125 @@
+['yogurt']------>['citrus fruit']  Lift: 5243
+['citrus fruit']------>['yogurt']  Lift: 5243
+['whole milk']------>['citrus fruit']  Lift: 6819
+['citrus fruit']------>['whole milk']  Lift: 6819
+['other vegetables']------>['citrus fruit']  Lift: 5454
+['citrus fruit']------>['other vegetables']  Lift: 5454
+['margarine']------>['whole milk']  Lift: 6082
+['yogurt']------>['tropical fruit']  Lift: 4916
+['tropical fruit']------>['yogurt']  Lift: 4916
+['whole milk']------>['tropical fruit']  Lift: 6234
+['tropical fruit']------>['whole milk']  Lift: 6234
+['tropical fruit']------>['pip fruit']  Lift: 3820
+['pip fruit']------>['tropical fruit']  Lift: 3820
+['tropical fruit']------>['other vegetables']  Lift: 5563
+['other vegetables']------>['tropical fruit']  Lift: 5563
+['tropical fruit']------>['rolls/buns']  Lift: 7714
+['rolls/buns']------>['tropical fruit']  Lift: 7714
+['tropical fruit']------>['soda']  Lift: 8634
+['soda']------>['tropical fruit']  Lift: 8634
+['tropical fruit']------>['root vegetables']  Lift: 5344
+['root vegetables']------>['tropical fruit']  Lift: 5344
+['yogurt']------>['whole milk']  Lift: 6257
+['whole milk']------>['yogurt']  Lift: 6257
+['yogurt']------>['other vegetables']  Lift: 6115
+['other vegetables']------>['yogurt']  Lift: 6115
+['yogurt']------>['rolls/buns']  Lift: 7343
+['rolls/buns']------>['yogurt']  Lift: 7343
+['yogurt']------>['bottled water']  Lift: 6599
+['bottled water']------>['yogurt']  Lift: 6599
+['yogurt']------>['soda']  Lift: 8747
+['soda']------>['yogurt']  Lift: 8747
+['yogurt']------>['root vegetables']  Lift: 5790
+['root vegetables']------>['yogurt']  Lift: 5790
+['yogurt']------>['whipped/sour cream']  Lift: 4741
+['whipped/sour cream']------>['yogurt']  Lift: 4741
+['whole milk']------>['pip fruit']  Lift: 6316
+['pip fruit']------>['whole milk']  Lift: 6316
+['whole milk']------>['other vegetables']  Lift: 6498
+['other vegetables']------>['whole milk']  Lift: 6498
+['whole milk']------>['butter']  Lift: 5054
+['butter']------>['whole milk']  Lift: 5054
+['whole milk']------>['rolls/buns']  Lift: 8162
+['rolls/buns']------>['whole milk']  Lift: 8162
+['bottled beer']------>['whole milk']  Lift: 9902
+['whole milk']------>['bottled water']  Lift: 8082
+['bottled water']------>['whole milk']  Lift: 8082
+['whole milk']------>['curd']  Lift: 5124
+['curd']------>['whole milk']  Lift: 5124
+['beef']------>['whole milk']  Lift: 6204
+['frankfurter']------>['whole milk']  Lift: 7216
+['whole milk']------>['soda']  Lift: 10939
+['soda']------>['whole milk']  Lift: 10939
+['whole milk']------>['fruit/vegetable juice']  Lift: 6820
+['fruit/vegetable juice']------>['whole milk']  Lift: 6820
+['whole milk']------>['newspapers']  Lift: 7333
+['newspapers']------>['whole milk']  Lift: 7333
+['whole milk']------>['pastry']  Lift: 6724
+['pastry']------>['whole milk']  Lift: 6724
+['whole milk']------>['root vegetables']  Lift: 5601
+['root vegetables']------>['whole milk']  Lift: 5601
+['whole milk']------>['sausage']  Lift: 7898
+['sausage']------>['whole milk']  Lift: 7898
+['brown bread']------>['whole milk']  Lift: 6465
+['shopping bags']------>['whole milk']  Lift: 10104
+['pork']------>['whole milk']  Lift: 6536
+['whole milk']------>['whipped/sour cream']  Lift: 5589
+['whipped/sour cream']------>['whole milk']  Lift: 5589
+['whole milk']------>['domestic eggs']  Lift: 5316
+['domestic eggs']------>['whole milk']  Lift: 5316
+['frozen vegetables']------>['whole milk']  Lift: 5914
+['pip fruit']------>['other vegetables']  Lift: 5509
+['other vegetables']------>['pip fruit']  Lift: 5509
+['other vegetables']------>['butter']  Lift: 5265
+['butter']------>['other vegetables']  Lift: 5265
+['rolls/buns']------>['other vegetables']  Lift: 8216
+['other vegetables']------>['rolls/buns']  Lift: 8216
+['other vegetables']------>['bottled water']  Lift: 8478
+['bottled water']------>['other vegetables']  Lift: 8478
+['soda']------>['other vegetables']  Lift: 10136
+['other vegetables']------>['soda']  Lift: 10136
+['other vegetables']------>['fruit/vegetable juice']  Lift: 6536
+['fruit/vegetable juice']------>['other vegetables']  Lift: 6536
+['pastry']------>['other vegetables']  Lift: 7501
+['other vegetables']------>['pastry']  Lift: 7501
+['root vegetables']------>['other vegetables']  Lift: 4378
+['other vegetables']------>['root vegetables']  Lift: 4378
+['sausage']------>['other vegetables']  Lift: 6635
+['other vegetables']------>['sausage']  Lift: 6635
+['shopping bags']------>['other vegetables']  Lift: 8088
+['other vegetables']------>['shopping bags']  Lift: 8088
+['pork']------>['other vegetables']  Lift: 5066
+['other vegetables']------>['pork']  Lift: 5066
+['whipped/sour cream']------>['other vegetables']  Lift: 4724
+['other vegetables']------>['whipped/sour cream']  Lift: 4724
+['other vegetables']------>['domestic eggs']  Lift: 5422
+['domestic eggs']------>['other vegetables']  Lift: 5422
+['rolls/buns']------>['bottled water']  Lift: 8262
+['bottled water']------>['rolls/buns']  Lift: 8262
+['soda']------>['rolls/buns']  Lift: 8229
+['rolls/buns']------>['soda']  Lift: 8229
+['rolls/buns']------>['pastry']  Lift: 7684
+['pastry']------>['rolls/buns']  Lift: 7684
+['root vegetables']------>['rolls/buns']  Lift: 8114
+['rolls/buns']------>['root vegetables']  Lift: 8114
+['sausage']------>['rolls/buns']  Lift: 5553
+['rolls/buns']------>['sausage']  Lift: 5553
+['soda']------>['bottled water']  Lift: 6541
+['bottled water']------>['soda']  Lift: 6541
+['soda']------>['pastry']  Lift: 7249
+['pastry']------>['soda']  Lift: 7249
+['soda']------>['sausage']  Lift: 6630
+['sausage']------>['soda']  Lift: 6630
+['soda']------>['shopping bags']  Lift: 6867
+['shopping bags']------>['soda']  Lift: 6867
+['yogurt']------>['other vegetables', 'whole milk']  Lift: 4611
+['other vegetables']------>['whole milk', 'yogurt']  Lift: 4788
+['whole milk', 'yogurt']------>['other vegetables']  Lift: 4788
+['yogurt', 'other vegetables']------>['whole milk']  Lift: 4900
+['whole milk', 'other vegetables']------>['yogurt']  Lift: 4611
+['root vegetables']------>['other vegetables', 'whole milk']  Lift: 3460
+['other vegetables']------>['root vegetables', 'whole milk']  Lift: 4015
+['whole milk', 'root vegetables']------>['other vegetables']  Lift: 4015
+['whole milk', 'other vegetables']------>['root vegetables']  Lift: 3460
+['root vegetables', 'other vegetables']------>['whole milk']  Lift: 5136
+Time:  17.756808321999983
