@@ -1,5 +1,2 @@
 # Data-mining-projects
-I provided this repository for the advanced data mining course. There are three phases:\
-1- Apriori algorithm and algorithm\
-2- classification algorithms comparison\
-3- clustering algorithms comparison
+In this project, first, we implemented Apriori and Eclat algorithms for frequent itemset mining. We made a comparison of the results (speed, being lossless). In the second part, We implemented some classification algorithms (MLP, KNN, Decision tree, Naive Bayes) and compared the accuracy, precision, and recall results. We implemented three clustering algorithms (Kmeans, Hierarchical, and DBscan) and compared the results.
